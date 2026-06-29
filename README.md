@@ -5,6 +5,11 @@
 
 The goal of the project is to leverage reinforcement learning algorithms, specifically **3DQN** (Double Deep Q-Network), to train a model that dynamically controls traffic lights based on simulated traffic conditions using **SUMO** (Simulation of Urban MObility).
 
+## Demo
+A video demonstration showcasing the traffic simulation and the decisions made by the reinforcement learning model.
+
+https://github.com/user-attachments/assets/f5d17c26-8c30-45eb-bf93-145048c43a9c
+
 ## Project Overview
 ### 20th-Century Traffic Lights
 Since their invention, traffic lights have evolved little. They operate in fixed phases with variable durations based on road size (e.g., 30 seconds green, 30 seconds red). This system works well for symmetric traffic, ensuring smooth flow and quick intersection clearance.
@@ -50,6 +55,3 @@ This project was completed during a coding bootcamp at **Le Wagon** in Paris, wh
 
 ## Original Repository
 This repository is a fork of the original project: [https://github.com/psels/RL_traffic](https://github.com/psels/RL_traffic)
-
-## Demo
-A video demonstration showcasing the traffic simulation and the decisions made by the reinforcement learning model is available here: [Demo](https://www.youtube.com/watch?v=bnvSJbV-G6g).
